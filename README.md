@@ -11,8 +11,8 @@ This Python application allows you to convert MP4 files to MP3 files using the `
 ## How to Use
 
 1. Install the required Python packages by running the following command:
-    ```pip install PyQt6```
-    ```pip install MoviePy```
+   -PyQt:   ```pip install PyQt6```
+   -MoviePy:  ```pip install MoviePy```
 
 2. Clone or download this repository.
 
