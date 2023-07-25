@@ -1,0 +1,2 @@
+pyinstaller video2audio.py
+pyinstaller --onefile video2audio.py
