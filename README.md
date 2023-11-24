@@ -42,7 +42,9 @@ This Python application allows you to convert MP4 files to MP3 files using the `
     ![converting](https://github.com/POLLARD1145/video_to_audio_converter_Python/assets/69053974/b5e1d691-b5ce-48c8-832e-ed3978c0e25b)
 
 12. The converted audio files will be listed in the "Converted Audios" section.
-       ![Audios](https://github.com/POLLARD1145/video_to_audio_converter_Python/assets/69053974/e3d1e134-d697-4a79-9c84-62680e9f9b73)
+
+    ![Audios](https://github.com/POLLARD1145/video_to_audio_converter_Python/assets/69053974/e3d1e134-d697-4a79-9c84-62680e9f9b73)
+
     You can locate the audios in the folder indicated at the bottom.
 
 
